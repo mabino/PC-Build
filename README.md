@@ -19,3 +19,9 @@ Windows PC build for 2021 for playing recent games with the potential for later 
 
 ## Assembly
 
+1. Open the computer case by removing the screws along the back edge of the left side and sliding the left side panel towards the back.
+2. Lean the computer case flat on its right side.  Move any wiring out of the way of inserting additional components into the case.
+3. Insert the PSU into the computer case and afix with screws if provided.  Move any wiring out of the way of inserting additional components into the case.
+4. Inspect the case to see if there are standoffs that you can screw the motherboard into.
+5. Insert the motherboard to the standoffs with the screws provided.
+6. 
