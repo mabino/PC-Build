@@ -23,5 +23,9 @@ Windows PC build for 2021 for playing recent games with the potential for later 
 2. Lean the computer case flat on its right side.  Move any wiring out of the way of inserting additional components into the case.
 3. Insert the PSU into the computer case and afix with screws if provided.  Move any wiring out of the way of inserting additional components into the case.
 4. Inspect the case to see if there are standoffs that you can screw the motherboard into.
-5. Insert the motherboard to the standoffs with the screws provided.
-6. 
+5. Insert the motherboard and secure it to the standoffs with the screws provided.
+6. Insert the SSD into the motherboard and secure with screw.
+7. Insert the memory in the indicated slots when using only two of the four available sockets.
+8. Connect the front panel wiring to the appropriate headers.
+9. Connect the fans to the appropriate headers.
+10. Connect the PSU wiring to the motherboard and GPU. 
